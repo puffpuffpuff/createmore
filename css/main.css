@@ -202,11 +202,11 @@ Navigation Style
   border: none;
 }
 .navbar-default .navbar-header {
-  width: 28%;
+  width: 22%;
   padding-right: 15px;
 }
 .navbar-default .nav-wrap {
-  width: 50%;
+  width: 60%;
 }
 .navbar-default .nav > li > a {
   font-size: 14px;
@@ -620,7 +620,7 @@ Welcome Style
 }
  .blusep {
   max-width: 80%;
-  border: 1px solid #87C2EA;
+  border: 2px solid #87C2EA;
   margin-top: 30px;
   margin-bottom: 5px;
   text-align:center;
@@ -740,6 +740,7 @@ Services Style
 #services .tred{
 	height: auto;
 	margin: auto;
+	font-weight: 600;
 	font-size: 16px;
 	text-align: left;
 	margin-top: 1px;
@@ -750,6 +751,7 @@ Services Style
 #services .tblue{
 	height: auto;
 	margin: auto;
+	font-weight: 600;
 	font-size: 16px;
 	text-align: left;
 	margin-top: 1px;
@@ -760,6 +762,7 @@ Services Style
 #services .tgreen{
 	height: auto;
 	margin: auto;
+	font-weight: 600;
 	font-size: 16px;
 	text-align: left;
 	margin-top: 1px;
@@ -770,6 +773,7 @@ Services Style
 #services .tyellow{
 	height: auto;
 	margin: auto;
+	font-weight: 600;
 	font-size: 16px;
 	text-align: left;
 	margin-top: 1px;
@@ -780,6 +784,7 @@ Services Style
 #services .tpurple{
 	height: auto;
 	margin: auto;
+	font-weight: 600;
 	font-size: 16px;
 	text-align: left;
 	margin-top: 1px;
@@ -1363,6 +1368,7 @@ Testimonials Style
 	}
 	.clients_slider .slick-prev {left: 43%;}
 	.clients_slider .slick-next {right: 43%;}
+	#clients img{max-height: 400px;}
 }
 @media(max-width:360px ){
 	#clients h2{

@@ -61,10 +61,10 @@
                     <div class="col-md-8 col-xs-12 nav-wrap">
                         <ul class="nav navbar-nav">
                             <li><a href="#owl-hero" class="page-scroll">Home</a></li>
-                            <li><a href="#work-process" class="page-scroll">Services</a></li>
-                            <li><a href="#services" class="page-scroll">Program</a></li>
-                            <li><a href="#team" class="page-scroll">Facilitators</a></li>
-                            <li><a href="#footer" class="page-scroll">Contact</a></li>
+                            <li><a href="#work-process" class="page-scroll">Program</a></li>
+                            <li><a href="#welcome" class="page-scroll">Date and Rates</a></li>
+                            <li><a href="#services" class="page-scroll">Itinerary</a></li>
+                            <li><a href="#clients" class="page-scroll">Facilitators</a></li>
                         </ul>
                     </div>
                     <div class="social-media hidden-sm hidden-xs">
@@ -122,8 +122,8 @@
 				<div class="col-lg-2 col-md-2 col-sm-2"></div>
                 <div class="col-lg-8 col-md-8 col-sm-8">
 					<h2>5 Day Retreat in Bali</h2>
-					<div class="col-lg-2 col-md-2 col-sm-2"></div>
-					<div class="col-lg-8 col-md-8 col-sm-8">
+					<div class="col-lg-2 col-md-2 col-sm-1"></div>
+					<div class="col-lg-8 col-md-8 col-sm-10">
 						<div class="redsep center-block"></div><br>
 							<div class="dtitle">
 								<div class="row">
@@ -171,7 +171,7 @@
 								   Our one-of-a-kind approach combines an in-depth exploration of the psychological, mental and emotional blocks that get in your way when you are trying to create greater happiness. Through the systematic process of identifying and analyzing the narratives and belief systems in our conscious and subconscious minds, this workshop will show you how to jumpstart your 2016 into another dimension, where life is easier and more joyful, and where work becomes joyous, playful, and meaningful in every moment.
 								</p>
 							
-								<a class="btn btn-transparent center-block" href="#">SEE DATE AND RATES</a>
+								<a class="btn btn-transparent center-block" href="#welcome">SEE DATE AND RATES</a>
 							
 					</div>
 				</div>
@@ -179,6 +179,48 @@
         </div>
         </div>
     </section>
+	<!-- 
+	============================================= -->
+	<section id="expl">
+		<div class="container-fluid">
+			<div class="col-lg-12 col-md-12">
+					<div class="row"> 
+						<div class="col-lg-2 col-md-2 col-sm-2"></div>
+						<div class="col-lg-8 col-md-8 col-sm-8">
+							<h2>YOU CAN EXPECT TO FINALLY ANSWER SOME OF YOUR MOST PRESSING QUESTIONS:</h2>
+							<hr class="blusep">
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs hidden-sm">
+							<img class="img-responsive center-block" src="img/team/lbola.png">
+						</div>
+						<div class="col-lg-2 col-md-2 col-sm-2 visible-xs visible-sm"></div>
+						<div class="col-lg-4 col-md-10 col-sm-8">
+							<h3>What’s next in my life?</h3>
+							<hr class="grsep">
+							<h4>How can I feel even more fulfilled?</h4>
+							<hr class="grsep">
+							<h3>How do I continue the growth I’ve been experiencing and take it even further?</h3>
+							<hr class="grsep">
+							<h4><b>I’m happy with life, but is this all there is?</b></h4>
+							<hr class="grsep">
+							<h3>How much further can I propel myself, my life, and my work forward?</h3>
+							<hr class="grsep">
+							<h4>How can I improve my relationships with those around me?</h4>
+							<hr class="grsep">
+							<h3>How can I spend more of my time doing things that bring meaning and joy?</h3>
+							<hr class="grsep">
+							<h4>How can I connect more deeply with the people I love and the people I work with?</h4>
+							<hr class="grsep">
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs hidden-sm">
+							<img class="img-responsive center-block" src="img/team/rbola.png">
+						</div>
+					</div>
+			</div>	
+		</div>
+	</section>
 	 <!-- Welcome
 	============================================= -->
 	 <section id="welcome">
@@ -188,8 +230,8 @@
 					<div class="col-lg-2 col-md-2 col-sm-2"></div>
 					<div class="col-lg-8 col-md-8 col-sm-8">
 						<h2>Date and Rates</h2>
-						<div class="col-lg-2 col-md-2 col-sm-2"></div>
-						<div class="col-lg-8 col-md-8 col-sm-8">
+						<div class="col-lg-2 col-md-2 col-sm-1"></div>
+						<div class="col-lg-8 col-md-8 col-sm-10">
 							<div class="yellsep center-block"></div>
 							<div class="dtitle">
 								<div class="row">
@@ -207,8 +249,8 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-lg-2 col-md-2 col-sm-2"></div>
-					<div class="col-lg-4 col-md-4 col-sm-4">
+					<div class="col-lg-2 col-md-2 col-sm-1"></div>
+					<div class="col-lg-4 col-md-4 col-sm-5">
 						<div class="panel ypanel">
 						  <div class="panel-heading">
 							<span class="title">Single occupant</span><br>
@@ -259,19 +301,19 @@
 						   <br>
 						  </div>
 						  <div class="panel-body">
-							<a class="btn btn-yel center-block" href="#">BUY NOW</a><br>
+							<a class="btn btn-yel center-block" href="#contact">APPLY NOW</a><br>
 						  </div>
 						</div>
 					</div>
-					<div class="col-lg-4 col-md-4 col-sm-4">
+					<div class="col-lg-4 col-md-4 col-sm-5">
 						<div class="panel bpanel">
 						  <div class="panel-heading">
 							<span class="title">Person shared</span><br>
 							(gets a <b>shared</b> suite)
 						  </div>
 						  <div class="panel-body">
-							<span class="title">$ 7,859</span><b> (early bird)</b><br>
-							<span class="sectitle">$ 8,659</span><span class="definit"><b>  (normal price)</b></span><br>
+							<span class="title">$ 7,199</span><b> (early bird)</b><br>
+							<span class="sectitle">$ 7,999</span><span class="definit"><b>  (normal price)</b></span><br>
 							<div class="greysep center-block"></div>
 						  </div>
 						  <div class="panel-body">
@@ -315,7 +357,7 @@
 							<div class="greysep center-block"></div>
 						  </div>
 						  <div class="panel-body">
-							<a class="btn btn-blue center-block" href="#">BUY NOW</a><br>
+							<a class="btn btn-blue center-block" href="#contact">APPLY NOW</a><br>
 						  </div>
 						</div>
 					</div>
@@ -323,48 +365,7 @@
 			</div>
 		</div>
     </section>
-	<!-- 
-	============================================= -->
-	<section id="expl">
-		<div class="container-fluid">
-			<div class="col-lg-12 col-md-12">
-					<div class="row"> 
-						<div class="col-lg-2 col-md-2 col-sm-2"></div>
-						<div class="col-lg-8 col-md-8 col-sm-8">
-							<h2>YOU CAN EXPECT TO FINALLY ANSWER SOME OF YOUR MOST PRESSING QUESTIONS:</h2>
-							<hr class="blusep">
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs hidden-sm">
-							<img class="img-responsive center-block" src="img/team/lbola.png">
-						</div>
-						<div class="col-lg-2 col-md-2 col-sm-2 .visible-xs"></div>
-						<div class="col-lg-4 col-md-10 col-sm-8">
-							<h3>What’s next in my life?</h3>
-							<hr class="grsep">
-							<h4>How can I feel even more fulfilled?</h4>
-							<hr class="grsep">
-							<h3>How do I continue the growth I’ve been experiencing and take it even further?</h3>
-							<hr class="grsep">
-							<h4><b>I’m happy with life, but is this all there is?</b></h4>
-							<hr class="grsep">
-							<h3>How much further can I propel myself, my life, and my work forward?</h3>
-							<hr class="grsep">
-							<h4>How can I improve my relationships with those around me?</h4>
-							<hr class="grsep">
-							<h3>How can I spend more of my time doing things that bring meaning and joy?</h3>
-							<hr class="grsep">
-							<h4>How can I connect more deeply with the people I love and the people I work with?</h4>
-							<hr class="grsep">
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs hidden-sm">
-							<img class="img-responsive center-block" src="img/team/rbola.png">
-						</div>
-					</div>
-			</div>	
-		</div>
-	</section>
+	
     <!-- Services
 	============================================= -->
     <section id="services">
@@ -447,7 +448,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<a class="btn btn-transparent center-block" href="#">Apply now</a>
+				<a class="btn btn-transparent center-block" href="#contact">Apply now</a>
 			</div>
 			</div>
 			
