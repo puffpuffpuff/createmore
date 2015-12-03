@@ -365,7 +365,52 @@
 			</div>
 		</div>
     </section>
+<<<<<<< HEAD
 	
+=======
+	<!-- 
+	============================================= -->
+	<section id="expl">
+		<div class="container-fluid">
+			<div class="col-lg-12 col-md-12">
+					<div class="row"> 
+						<div class="col-lg-2 col-md-2 col-sm-2"></div>
+						<div class="col-lg-8 col-md-8 col-sm-8">
+							<h2>YOU CAN EXPECT TO FINALLY ANSWER SOME OF YOUR MOST PRESSING QUESTIONS:</h2>
+							<hr class="blusep">
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs hidden-sm">
+							<img class="img-responsive center-block" src="img/team/lbola.png">
+						</div>
+						<div class="col-lg-2 col-md-2 col-sm-2 visible-xs"></div>
+						<div class="col-lg-4 col-md-10 col-sm-8">
+							<h3>What’s next in my life?</h3>
+							<hr class="grsep">
+							<h4>How can I feel even more fulfilled?</h4>
+							<hr class="grsep">
+							<h3>How do I continue the growth I’ve been experiencing and take it even further?</h3>
+							<hr class="grsep">
+							<h4><b>I’m happy with life, but is this all there is?</b></h4>
+							<hr class="grsep">
+							<h3>How much further can I propel myself, my life, and my work forward?</h3>
+							<hr class="grsep">
+							<h4>How can I improve my relationships with those around me?</h4>
+							<hr class="grsep">
+							<h3>How can I spend more of my time doing things that bring meaning and joy?</h3>
+							<hr class="grsep">
+							<h4>How can I connect more deeply with the people I love and the people I work with?</h4>
+							<hr class="grsep">
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs hidden-sm">
+							<img class="img-responsive center-block" src="img/team/rbola.png">
+						</div>
+					</div>
+			</div>	
+		</div>
+	</section>
+>>>>>>> origin/master
     <!-- Services
 	============================================= -->
     <section id="services">
