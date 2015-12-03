@@ -270,8 +270,8 @@
 							(gets a <b>shared</b> suite)
 						  </div>
 						  <div class="panel-body">
-							<span class="title">$ 7,859</span><b> (early bird)</b><br>
-							<span class="sectitle">$ 8,659</span><span class="definit"><b>  (normal price)</b></span><br>
+							<span class="title">$ 7,199</span><b> (early bird)</b><br>
+							<span class="sectitle">$ 7,999</span><span class="definit"><b>  (normal price)</b></span><br>
 							<div class="greysep center-block"></div>
 						  </div>
 						  <div class="panel-body">
